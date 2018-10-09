@@ -7,7 +7,7 @@ const myFile = fortamus('source.txt')
 
 const runMenu = () => {
   let choice
-  while (choice != 6) {
+  while (choice != 7) {
     console.log(`
 ...        ....        *** MENU ***        ....         ...
 -----------------------------------------------------------
